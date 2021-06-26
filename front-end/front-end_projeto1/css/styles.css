@@ -1,0 +1,96 @@
+header{
+    border: 5px solid rgb(116, 115, 115); 
+    padding: 25px;
+    background-color: #B7B3B4;
+    text-align: center;
+    position: sticky;
+    top:0;
+}
+
+footer{
+    padding:25px;
+    margin-top: 300px;
+    background-color: #B7B3B4;
+    border: 5px solid rgb(116, 115, 115);
+    height: 70px;
+    text-align: center;
+}
+.menu{
+    border: 3px solid black;
+    padding: 5px;
+    color: black;
+    margin-left: 6px;
+    text-decoration: none;
+    font-family: 'Quantico', sans-serif;
+    font-weight:bold;
+    font-size:13px;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1531870257380-e44cf23a4135?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.logobloc{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+img.logo{
+    width: 18%;
+}
+.poster{
+    border-bottom:15px solid gray;
+    border-radius: 2em;
+}
+main{
+    margin-left:30%;
+    margin-right: 28%;
+    margin-top: 50px;
+
+}
+.listhead{
+    color: #00ff00;
+    font-family: 'Quantico', sans-serif;
+    font-weight:bold;
+    text-decoration: underline;
+}
+
+.text1{
+    color: #00ff00;
+    font-family: 'Quantico', sans-serif;
+    font-weight:bold;
+
+    
+    
+}
+.text2{
+    border: solid 6px #00ff00;
+    border-radius: 3mm;
+    background-color: black;
+    color: #00ff00;
+    font-family: 'Quantico', sans-serif;
+    font-weight:bold;
+    padding: 20px;
+    
+}
+
+div.box1{
+    border: solid 6px #00ff00;
+    border-radius: 3mm;
+    background-color: black;
+    margin-right: 250px;
+}
+
+.icon{
+    position: fixed;
+    bottom: 30px;
+    width: 75px;
+    right: 30px;
+}
+
+.icones{
+    margin-top: 20px;
+    width: 2%;
+    margin-left: 5px;
+}
