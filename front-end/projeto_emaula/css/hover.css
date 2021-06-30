@@ -1,0 +1,28 @@
+#form > h1:hover{
+    color: cadetblue;
+
+}
+
+/* "O " > " diz que o h1 do id form vai ser modificado (é um child combinator)*/
+
+
+#form h1{
+    transition: all 0.5s ease-in-out;
+}
+.hvr-bk{
+    transition: all 0.5s ease-in-out;
+}
+
+.hvr-bk:hover{
+    background-color: rgba(95, 158, 160, 0.63);
+    border-radius: 15px;
+}
+
+.btn{
+    transition: all 0.5s ease-in-out;
+}
+.btn:hover{
+    background-color: teal;
+    color:white;
+    font-weight: bold;
+}
