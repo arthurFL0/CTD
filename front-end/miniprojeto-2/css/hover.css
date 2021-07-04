@@ -1,0 +1,19 @@
+#form > h1:hover{
+    color: #fa9828;
+
+}
+/* O ">" é um "child combinator" */
+
+#form h1{
+    transition: all 0.5s ease-in-out;
+}
+
+.btn{
+    transition: all 0.1s ease-in-out;
+
+}
+
+/* Entra uma borda no botão quando o mouse fica sobre ele */
+.btn:hover{
+    border: 2px solid #f39121;
+}

@@ -1,0 +1,72 @@
+* {
+  
+    box-sizing: border-box;
+
+}
+
+body {
+    /* gradiente de cor como fundo */
+    background: rgb(255,179,26);
+    background: radial-gradient(circle, rgba(255,179,26,1) 0%, rgba(227,175,145,1) 100%);
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.pic{
+    width: 30px;
+}
+
+.text1{
+    display: inline-block;
+}
+.topform{
+    margin-bottom:5px;
+}
+
+#form {
+    padding: 50px;
+    width: 455px;
+    height: 450px;
+    margin: 80px auto;
+    background-color: #ffffff;
+    border-bottom: 15px solid #f39121;
+    border-radius: 2em;
+    text-align: center;
+    
+}
+
+#form h1{
+
+    color: #f8ad58;
+    margin-left: 6px;
+
+}
+
+label{
+    color:#f8ad58;
+    font-weight:bold ;
+}
+
+/* modifica todos os campos de input */
+input[type='text'],
+input[type='email'],
+input[type='password'] {
+    margin-bottom: 25px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid #f8ad58 ;
+    outline:none;
+    padding:10px;
+}
+
+.btn {
+    font-family: 'Otomanopee One', sans-serif; ;
+    color:#f8ad58;
+    border:none;
+    background: none;
+    background-color: #ebe7e7;
+    padding: 12px 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+
+}

@@ -1,0 +1,30 @@
+.pic {
+    animation: rotation 6s infinite linear;
+    animation-name: rot360;
+  }
+
+  @keyframes rot360 {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  /* Aqui estão definidas as propriedades que fazem o icone da laranja girar(0-360) infinitamente. */
+
+.slide {
+    animation-duration: 2s;
+    animation-name:slide;
+}
+
+@keyframes slide{
+    from{
+        margin-top: -100%;
+    }
+
+    to{
+        margin-top: 4%;
+    }
+}
