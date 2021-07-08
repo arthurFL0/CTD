@@ -1,0 +1,12 @@
+.hvr-its:hover{
+    background-color: red;
+}
+
+.img-hvr:hover{
+    border:2px solid red;
+}
+
+button:hover{
+    background-color: lightgrey;
+    color:black;
+}
