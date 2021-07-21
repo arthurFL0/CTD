@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+header{
+    background-color: #2d2d2d;
+    height: 73px;
+    display: flex;
+    padding-top: 40px;
+    align-content: space-around;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+h2{
+    color:white;
+    display: flex;
+    /* flex-direction: row; */
+    /* align-content: space-around; */
+    height: fit-content;
+    margin-left: 60px;
+    font-size: 27px;
+}
+
+.menu{
+        display: flex;
+    margin-right: 194px;
+    list-style: none;
+}
+
+.menu li{
+    margin-left:32px
+}
+
+.menu li .itens{
+    padding: 16px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+body{
+    background-color:#9c9c9cfc;
+}
+
+main{
+    margin: 6% 10%;
+}
+
+.fundo{
+    background-color: #2d2d2d;
+    height: 700px;
+    width: 79%;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.box{
+    background-color:#bdbdbd;
+}
+
+.box.a{
+    width: 384px;
+    height: 588px;
+    border-radius: 21px;
+    display: flex;
+    flex-direction: column;
+    margin-top: -36px;
+    align-items: center;
+    align-content: space-around;
+    border: 10px solid#2d2d2d;
+    margin-left: 124px;
+    background-color: #acacac;
+    justify-content: flex-start;
+}
+
+.img-test{
+    width: 250px;
+    background-color: aliceblue;
+    height: 250px;
+    margin-top: 41px;
+}
+
+.titulo-caixa{
+    
+margin-top: 13.5px;
+    
+font-size: 25px;
+    
+font-style: oblique;
+}
+
+.box-generos{
+    display: flex;
+    width: 233px;
+    height: 100px;
+    background-color: #3434344a;
+    border-radius: 6px;
+    margin-top: 44px;
+    margin-right: 16px;
+    border: 2px solid rgb(83, 83, 83);
+    flex-direction: column;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.box-generos > p{
+    margin-left: 12px;
+    margin-top: 11px;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.fakefundo{
+    background-color: #7a309500;
+    height: 700px;
+    width: 50%;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    justify-content: space-between;
+    margin-right: 0px;
+}
+
+.box.b{
+    width: 401px;
+    height: 260px;
+    border-radius: 21px;
+    display: flex;
+    flex-direction: column;
+    border: 7px solid rgb(25 69 142 / 76%);
+    margin-top: 72px;
+}
+
+

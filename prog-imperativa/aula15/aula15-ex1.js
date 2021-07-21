@@ -9,7 +9,7 @@ console.log(2);
 console.log(3);
 
 
-assíncrono = lembrar exemplo das panelas
+// assíncrono = lembrar exemplo das panelas
 console.log(1);           //..callback..
 fs.readFile('./letras.txt',(err,contents)=>{
     console.log(4);
