@@ -1,8 +1,8 @@
 public class UsuarioJogo {
-    String nome;
-    String nickname;
-    int pontuacao;
-    int nivel;
+  private  String nome;
+  private  String nickname;
+  private  int pontuacao;
+  private  int nivel;
 
 //  Os dados primitivos "int" iniciam com "0" quando nao especificado os seu valores, ja a class Wrapper integer vai ficar null se nada for especificado
 //  Eu criei esse metodo vazio pois assim eu consigo criar um objeto vazio, sem precisar usar o construtor ja passando parametros
