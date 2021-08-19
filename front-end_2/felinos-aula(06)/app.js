@@ -37,13 +37,28 @@ const listadeFelinos = [
     },
   ];
 
+  let body = document.querySelector('body');
+  console.log(body)
   for (let i = 0;i<listadeFelinos.length;i++){
       let title = listadeFelinos[i].title;
       let imgUrl = listadeFelinos[i].imgUrl;
       let description = listadeFelinos[i].description;
       let createdAt = listadeFelinos[i].createdAt;
-      document.querySelector('body').innerHTML += "<h1>"+title+"</h1>";
-      document.querySelector('body').innerHTML += "<img src="+imgUrl+" "+"width=30%"+"></img>";
-      document.querySelector('body').innerHTML += "<p>"+description+"</p>";
-      document.querySelector('body').innerHTML += "<p>"+createdAt+"</p>";
+      body.innerHTML += "<h1>"+title+"</h1>";
+      body.innerHTML += "<img src="+imgUrl+" "+"width=30%"+"></img>";
+      body.innerHTML += "<p>"+description+"</p>";
+      body.innerHTML += "<p>"+createdAt+"</p>";
+
     }
+  
+  
+
+    // Observação: 
+    // Em vez de juntar tudo usando só o + e concatenado com as " ", da para usar o (template string) ${} 
+    // (Que aparentemente é a forma mais usada) 
+    // template string é delimitado por as aspas cruzadas ` `
+    // 
+    // body.innerHTML += `<h1>${title}</h1>`;
+    // body.innerHTML += `<img src="${imgUrl}" width="30%"></img>`;
+    // body.innerHTML += `<p>${description}</p>`;
+    // body.innerHTML += `<p>${createdAt}</p>`;
