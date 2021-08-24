@@ -1,0 +1,1 @@
+Scripts shell usados na aula ao vivo de Infra 08, foram usados para testar um pouco o Powershell.
