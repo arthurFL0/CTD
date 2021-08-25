@@ -14,3 +14,4 @@ let restaurante2 = new Restaurante("Fausto's Kitchen",["Ovo","Ovo cozido","Ovo f
 
 console.log(callRestaurante.entrada())
 console.log(restaurante2.entrada())
+
