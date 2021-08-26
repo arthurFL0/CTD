@@ -1,0 +1,10 @@
+div{
+    width: fit-content;
+    block-size: fit-content;
+    display:contents;
+}
+
+form{
+    width: 450px;
+}
+
