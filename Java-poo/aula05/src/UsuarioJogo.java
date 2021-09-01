@@ -24,7 +24,7 @@ public class UsuarioJogo {
     }
 
     public void bonusUp(int valor_bonus){
-        this.pontuacao += valor_bonus;
+        this.pontuacao + int vaor_bonus;
 
     }
 

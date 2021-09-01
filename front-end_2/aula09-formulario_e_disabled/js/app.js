@@ -48,6 +48,18 @@ campo.setAttribute("id", "campo");
 campo.setAttribute("type", "text");
 div3.appendChild(campo);
 
+//Radio Buttons
+let  botaoRadio1 = document.createElement("input");
+botaoRadio1.setAttribute("type", "radio");
+botaoRadio1.setAttribute("name", "radiobtn");
+form.appendChild(botaoRadio1)
+
+let  botaoRadio2 = document.createElement("input");
+botaoRadio2.setAttribute("type", "radio");
+botaoRadio2.setAttribute("name", "radiobtn");
+
+form.appendChild(botaoRadio2)
+
 //Inserção dos botões:
 
 var botaoEnviar = document.createElement("button");

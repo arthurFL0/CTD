@@ -67,6 +67,8 @@ input[type='password'] {
     padding: 12px 30px;
     border-radius: 5px;
     margin-top: 10px;
+    border: 2px solid #ffffff00;
+    /* Isso é uma borda transparente, assim quando a borda do hover aparecer o botão nao vai parecer mudando de tamanho */
     
 
 }
