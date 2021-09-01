@@ -172,3 +172,7 @@ div3.onmouseenter = function(){
     } else{
     }
 }
+
+formulario.onsubmit = function(){
+    
+}
