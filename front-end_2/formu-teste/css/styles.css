@@ -1,0 +1,45 @@
+.input-area{
+   padding: 2.5px 0px;
+}
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    padding: 3% 5%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 11%;
+}
+
+.lb.b{
+    padding-top: 10px;
+}
+
+.section-btn{
+    padding-top: 13px;
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    width: 57px;
+}
+
+p{
+    height:fit-content;
+}
+
+.insertdiv{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 85%
+}
