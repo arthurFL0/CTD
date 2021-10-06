@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DH-Excecoes/DH-Excecoes.iml" filepath="$PROJECT_DIR$/DH-Excecoes/DH-Excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DH-colecoes/DH-colecoes.iml" filepath="$PROJECT_DIR$/DH-colecoes/DH-colecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DH-excecoes-personalizadas/DH-excecoes-personalizadas.iml" filepath="$PROJECT_DIR$/DH-excecoes-personalizadas/DH-excecoes-personalizadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DH-lancar-excecoes/DH-lancar-excecoes.iml" filepath="$PROJECT_DIR$/DH-lancar-excecoes/DH-lancar-excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DH-operacoes-colecoes/DH-operacoes-colecoes.iml" filepath="$PROJECT_DIR$/DH-operacoes-colecoes/DH-operacoes-colecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tesla/Tesla.iml" filepath="$PROJECT_DIR$/Tesla/Tesla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplos - DH.iml" filepath="$PROJECT_DIR$/exemplos - DH.iml" />
+    </modules>
+  </component>
+</project>
