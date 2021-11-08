@@ -1,0 +1,39 @@
+[2021-10-29 17:34:50] [ ERROR] [Sistema:54] Erro na hora da execução da query
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.USERS(ID) [3, 'Carlos', 'Masculino', 'carlosgmail.com']"; SQL statement:
+INSERT INTO USERS (ID,NOME,SEXO,EMAIL) VALUES (3,'Olivia','Feminino','oliviagmail.com') [23505-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:459)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:127)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:531)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:195)
+	at org.h2.command.dml.Insert.update(Insert.java:151)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:198)
+	at org.h2.command.Command.executeUpdate(Command.java:251)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:228)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at Sistema.main(Sistema.java:51)
+[2021-10-29 17:34:50] [ DEBUG] [Sistema:61] O id 2 teve a sua coluna 'nome' alterada para de 'Fabio' para 'Arthur'
+[2021-10-29 17:34:50] [ DEBUG] [Sistema:70] O user de id 3 foi deletado
+[2021-10-29 17:34:50] [ DEBUG] [Sistema:79] O user de id 2 foi deletado
+[2021-10-29 17:36:20] [ ERROR] [Sistema:42] Nao foi possivel se conectar
+[2021-10-29 17:37:00] [ ERROR] [Sistema:54] Erro na hora da execução da query
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.USERS(ID) [3, 'Carlos', 'Masculino', 'carlosgmail.com']"; SQL statement:
+INSERT INTO USERS (ID,NOME,SEXO,EMAIL) VALUES (3,'Olivia','Feminino','oliviagmail.com') [23505-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:459)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:127)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:531)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:195)
+	at org.h2.command.dml.Insert.update(Insert.java:151)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:198)
+	at org.h2.command.Command.executeUpdate(Command.java:251)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:228)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at Sistema.main(Sistema.java:51)
+[2021-10-29 17:37:00] [ DEBUG] [Sistema:61] O id 2 teve a sua coluna 'nome' alterada para de 'Fabio' para 'Arthur'
+[2021-10-29 17:37:00] [ INFO ] [Sistema:70] O user de id 3 foi deletado
+[2021-10-29 17:37:00] [ INFO ] [Sistema:79] O user de id 2 foi deletado

@@ -1,0 +1,83 @@
+[2021-11-05 15:41:31] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 15:41:31 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 15:49:38] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 15:49:38 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 15:50:14] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 15:50:14 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 15:50:15] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 15:50:15 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 15:50:15] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 15:50:15] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 6
+[2021-11-05 15:50:15] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 6
+[2021-11-05 15:50:15] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 15:50:15 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 15:50:15] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 15:52:55] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 15:52:54 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 15:53:23] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 15:53:23 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 15:53:24] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 15:53:24 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 15:53:24] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 15:53:24] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 6
+[2021-11-05 15:53:24] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 6
+[2021-11-05 15:53:24] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 15:53:24 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 15:53:24] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 15:54:57] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 15:54:57 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 15:55:14] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 15:55:14 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 15:55:14] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 15:55:14 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 15:55:14] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 15:55:14] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 6
+[2021-11-05 15:55:14] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 6
+[2021-11-05 15:55:14] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 15:55:14 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 15:55:14] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 16:43:06] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:43:06 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:43:18] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:43:18 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:43:18] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 16:43:18 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 16:43:18] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 16:43:18] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 6
+[2021-11-05 16:43:19] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 6
+[2021-11-05 16:43:19] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 16:43:19 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 16:43:19] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 16:45:48] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:45:48 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:45:48] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 16:45:48 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 16:45:48] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 16:45:48] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 6
+[2021-11-05 16:45:48] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 6
+[2021-11-05 16:45:48] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 16:45:48 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 16:45:48] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 1
+[2021-11-05 16:46:35] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:46:35 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:46:36] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 16:46:36 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 16:46:36] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 16:46:36] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 3
+[2021-11-05 16:46:36] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 16:46:36] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 16:46:36 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 16:46:36] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 1
+[2021-11-05 16:48:05] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:48:05 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:48:06] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 16:48:06 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 16:48:06] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 16:48:06] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 16:48:06 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 16:48:06] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 1
+[2021-11-05 16:48:06] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 3
+[2021-11-05 16:48:06] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 16:49:09] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:49:09 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:49:10] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 16:49:10 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 16:49:10] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 16:49:10] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 16:49:10 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 16:49:10] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 1
+[2021-11-05 16:49:10] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 3
+[2021-11-05 16:49:10] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 16:55:41] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:55:41 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:55:53] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:55:53 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:55:53] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 16:55:53 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 16:55:53] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 16:55:53] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 16:55:53 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 16:55:53] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 1
+[2021-11-05 16:55:53] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 3
+[2021-11-05 16:55:53] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 16:56:50] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:56:50 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:57:03] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Cleber', sobrenome='Mendonça', rg='89182308', dataCadastro=Fri Nov 05 16:57:02 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Avenida', numero='34', cidade='Ribeirinho', estado='Espirito Santo'}}
+[2021-11-05 16:57:03] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Joao', sobrenome='Filho', rg='901923123', dataCadastro=Fri Nov 05 16:57:03 GMT-03:00 2021, endereco=Endereco{id=null, rua='Av. Amarela', numero='24', cidade='Sao Jose', estado='Mato Grosso'}}
+[2021-11-05 16:57:03] [ DEBUG] [PacienteDaoH2:112] Buscando todos os pacientes
+[2021-11-05 16:57:03] [ DEBUG] [PacienteDaoH2:33] Registrando novo paciente: Paciente{id=null, nome='Rita', sobrenome='Almeida', rg='1023911231', dataCadastro=Fri Nov 05 16:57:03 GMT-03:00 2021, endereco=Endereco{id=null, rua='Alameda Pitocotinho', numero='12', cidade='Litropolis', estado='Sao Paulo'}}
+[2021-11-05 16:57:03] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 16:57:03] [ DEBUG] [PacienteDaoH2:96] Excluindo paciente com id: 3
+[2021-11-05 16:57:03] [ DEBUG] [PacienteDaoH2:60] Buscando Paciente com id: 3
+[2021-11-05 20:33:40] [ DEBUG] [DentistaDaoH2:27] Registrando novo dentista: Dentista{id=null, numeroMatricula=0, nome='Pascal', sobrenome='Torreno'}
+[2021-11-05 20:33:41] [ DEBUG] [DentistaDaoH2:27] Registrando novo dentista: Dentista{id=null, numeroMatricula=0, nome='Felipe', sobrenome='Moureira'}
+[2021-11-05 20:33:41] [ DEBUG] [DentistaDaoH2:99] Buscando todos os dentistas
+[2021-11-05 20:37:38] [ DEBUG] [DentistaDaoH2:27] Registrando novo dentista: Dentista{id=null, numeroMatricula=0, nome='Pascal', sobrenome='Torreno'}
+[2021-11-05 20:37:38] [ DEBUG] [DentistaDaoH2:27] Registrando novo dentista: Dentista{id=null, numeroMatricula=0, nome='Felipe', sobrenome='Moureira'}
+[2021-11-05 20:37:38] [ DEBUG] [DentistaDaoH2:99] Buscando todos os dentistas

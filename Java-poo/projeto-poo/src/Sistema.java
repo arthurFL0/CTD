@@ -40,6 +40,8 @@ public class Sistema {
         sala1.AdicionarAluno(aluno2);
         System.out.println(sala1.getAlunoslista());
         System.out.println(sala1.getMatriculalista());
+        System.out.println(sala1.getTurno().getValor1());
+
 
 
     }
